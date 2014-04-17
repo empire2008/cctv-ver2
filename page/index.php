@@ -1,6 +1,8 @@
-<?php
+﻿<?php
 session_start();
+echo 'test';
 ?>
+
 <meta charset="UTF-8">
 <html>
 <head>
