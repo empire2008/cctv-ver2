@@ -1,0 +1,25 @@
+#mainbox{
+    background-color: #FFEFD6;
+    width: 500;
+    border: 1px solid #000000;
+    border-radius: 4px;
+}
+#headconfig{
+    background-color: #FFA41D;
+    width: 500px;
+    height: 20px;
+    text-align: center;
+    border-radius: 4px;
+}
+#configbox{
+    width: 500px;
+    height: auto;
+    border-radius: 4px;
+
+}
+#subheader{
+    background-color: #FFCC66;
+    width: 500px;
+    border-radius: 4px;
+
+}

@@ -1,0 +1,17 @@
+#header{
+    background-color: #000000;
+    color: #ffffff;
+    border-radius: 3px;
+    font-size: 16px;
+    font: bold;
+    font: "Times New Roman", serif;
+    text-align: center;
+    height: 30px;
+}
+#detail{
+    border-radius: 3px;
+    border: 1px dotted #000000;
+    background-color: #ffffff;
+    font: "Times New Roman", serif;
+    font-size: 12px;
+}
